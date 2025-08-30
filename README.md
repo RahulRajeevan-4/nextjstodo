@@ -1,3 +1,5 @@
+## Make sure you say yes to Tailwind 
+
 # src/app: 
 This is the main directory for your application's code. It includes your pages, layouts, and any other components specific to your app.
 
