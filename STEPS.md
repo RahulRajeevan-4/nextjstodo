@@ -186,5 +186,30 @@ DELETE → DELETE /api/todos with JSON body:
 
 { "id": 1 }
 ```
+<br/><br/>
+
+# Deploying
 
 You can test using Postman, Thunder Client (VSCode extension), or cURL.
+
+🔹 1. Vercel (Best + Easiest)
+
+✅ Official hosting platform for Next.js (built by the same company).
+
+✅ Automatic serverless API routes (your /api/todos will work out of the box).
+
+✅ Free tier available.
+
+✅ One-click GitHub/GitLab/Bitbucket integration.
+
+How to deploy:
+
+* Push your project to GitHub (or GitLab/Bitbucket).
+
+* Go to vercel.com and create an account.
+
+* Click New Project → Import your repo.
+
+* Vercel auto-detects Next.js → just click Deploy.
+
+* You’ll get a live URL like https://my-next-app.vercel.app.
